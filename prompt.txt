@@ -1,0 +1,41 @@
+Promptta belirtilen sure veya duanın Arapça metnini ve Türkçe mealini üret.
+
+Kurallar:
+- Surelerde her <p> etiketi tam olarak bir ayeti temsil etsin.
+- Dualarda her <p> etiketi anlam bütünlüğü taşıyan bir bölümü temsil etsin.
+- Arapça ve Türkçe bölümler birebir aynı sırada eşleşsin.
+- En dışta, sure/dua adının kebab-case haliyle oluşturulmuş bir div bulunsun (örnek: class="ayetel-kursi", class="yasin-suresi").
+- Bunun içinde sırasıyla <div class="arapca"> ve <div class="turkce"> yer alsın.
+- Her iki div içinde yalnızca <p> etiketleri bulunsun.
+- Arapça metin harekeli yazılsın.
+- Türkçe kısmı yalnızca meal olsun, ek açıklama veya dipnot ekleme.
+- HTML dışında hiçbir metin üretme.
+- Markdown kod bloğu (```html) kullanma.
+- Açıklama, giriş cümlesi veya not ekleme.
+
+örnek çıktı :
+<div class="ayetel-kursi">
+    <div class="arapca">
+        <p>اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ</p>
+        <p>لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ</p>
+        <p>لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ</p>
+        <p>مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ</p>
+        <p>يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ</p>
+        <p>وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ</p>
+        <p>وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ</p>
+        <p>وَلَا يَئُودُهُ حِفْظُهُمَا</p>
+        <p>وَهُوَ الْعَلِيُّ الْعَظِيمُ</p>
+    </div>
+
+    <div class="turkce">
+        <p>Allah, kendisinden başka hiçbir ilah olmayandır. Diridir, her şeyi ayakta tutandır.</p>
+        <p>O'nu ne bir uyuklama tutabilir, ne de bir uyku.</p>
+        <p>Göklerde ve yerde ne varsa hepsi O'nundur.</p>
+        <p>O'nun izni olmaksızın katında kim şefaat edebilir?</p>
+        <p>O, kullarının önlerindekini ve arkalarındakini (yaptıklarını ve yapacaklarını) bilir.</p>
+        <p>Onlar, Allah'ın ilminden, O'nun dilediği kadarından başka bir şey kavrayamazlar.</p>
+        <p>O'nun kürsüsü, gökleri ve yeri kaplamıştır.</p>
+        <p>Gökleri ve yeri koruyup gözetmek O'na güç gelmez.</p>
+        <p>O, çok yücedir, çok büyüktür.</p>
+    </div>
+</div>

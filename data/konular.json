@@ -1,0 +1,106 @@
+[
+  {
+    "id": "namazin-onemi",
+    "baslik": "Namazın Hayatımızdaki Önemi",
+    "kategori": "İbadet",
+    "ozet": "Namazın günlük hayata düzen, huzur ve disiplin kazandırma yönüyle ele alındığı bir yazı.",
+    "altbasliklar": [
+      {
+        "baslik": "Günlük Yaşama Düzen Katması",
+        "icerik": "Namaz, gün içinde belirli vakitlere yayılan yapısıyla kişiye zaman yönetimi ve disiplin kazandırır. Beş vakit, günün doğal bir ritmini oluşturur ve kişiyi telaşın ortasında bile durup nefes almaya davet eder."
+      },
+      {
+        "baslik": "Manevi Huzur ve Odaklanma",
+        "icerik": "Secdeye varan kişi, dünyevi kaygılardan bir anlığına sıyrılır. Bu kısa duraklama, zihinsel yoğunluğu azaltır ve güne yeniden odaklanarak devam etme imkânı sunar."
+      },
+      {
+        "baslik": "Toplumsal Bağın Güçlenmesi",
+        "icerik": "Cemaatle kılınan namazlar, komşuluk ve kardeşlik bağlarını güçlendirir. Cami cemaati, bireyin sosyal çevresini genişleten ve dayanışmayı artıran bir ortam sağlar."
+      }
+    ]
+  },
+  {
+    "id": "sabir-ve-tevekkul",
+    "baslik": "Sabır ve Tevekkülün Anlamı",
+    "kategori": "Ahlak",
+    "begeni": 615,
+    "ozet": "Zorluklar karşısında sabretmenin ve sonucu Allah'a bırakmanın (tevekkül) dengeyi nasıl koruduğuna dair bir inceleme.",
+    "altbasliklar": [
+      {
+        "baslik": "Sabrın Pasiflik Olmadığı",
+        "icerik": "Sabır, elini kolunu bağlayıp beklemek değildir. Çaba göstermeye devam ederken sonucu olgunlukla karşılamaktır. Bu yönüyle sabır, aktif bir irade eğitimidir."
+      },
+      {
+        "baslik": "Tevekkülün Çabayla Birlikte Yürümesi",
+        "icerik": "Tevekkül, gerekli adımları attıktan sonra kalbi rahat tutmaktır. Önce sebeplere sarılmak, ardından sonucu güvenle beklemek, tevekkülün özünü oluşturur."
+      },
+      {
+        "baslik": "Günlük Hayatta Uygulanabilirliği",
+        "icerik": "Sınav, iş görüşmesi ya da sağlık sorunları gibi belirsizlik içeren durumlarda sabır ve tevekkül, kaygıyı azaltan pratik bir bakış açısı sunar."
+      }
+    ]
+  },
+  {
+    "id": "aile-icinde-merhamet",
+    "baslik": "Aile İçinde Merhametin Rolü",
+    "kategori": "Aile",
+    "begeni": 540,
+    "ozet": "Merhametin aile bireyleri arasındaki iletişimi ve bağı nasıl güçlendirdiğine dair bir değerlendirme.",
+    "altbasliklar": [
+      {
+        "baslik": "Ebeveyn-Çocuk İlişkisinde Şefkat",
+        "icerik": "Çocuğa gösterilen şefkatli yaklaşım, onun kendini güvende hissetmesini sağlar. Bu güven duygusu, ileride sağlıklı ilişkiler kurabilmesinin temelini oluşturur."
+      },
+      {
+        "baslik": "Eşler Arası Anlayış",
+        "icerik": "Merhamet, eşler arasında hataları affetmeyi ve birbirini olduğu gibi kabul etmeyi kolaylaştırır. Bu da evlilik içindeki gerilimleri azaltan önemli bir unsurdur."
+      },
+      {
+        "baslik": "Büyüklere Saygı, Küçüklere Şefkat",
+        "icerik": "Aile içindeki nesiller arası denge, büyüklere gösterilen saygı ile küçüklere gösterilen şefkatin bir arada yürümesiyle korunur."
+      }
+    ]
+  },
+  {
+    "id": "dogruluk-ve-guven",
+    "baslik": "Doğruluk ve Güvenilirliğin Değeri",
+    "kategori": "Ahlak",
+    "begeni": 480,
+    "ozet": "Sözünde durmanın ve doğru konuşmanın bireysel ve toplumsal hayattaki karşılığı üzerine bir yazı.",
+    "altbasliklar": [
+      {
+        "baslik": "Kişisel İtibarın Temeli",
+        "icerik": "Doğru sözlü olmak, zamanla kişinin çevresinde güvenilir biri olarak tanınmasını sağlar. Bu itibar, uzun vadede en değerli sermayelerden biridir."
+      },
+      {
+        "baslik": "Ticarette ve İş Hayatında Dürüstlük",
+        "icerik": "Alışverişte ve iş ilişkilerinde dürüstlük, kalıcı iş birliklerinin ve sağlıklı bir ekonominin temel taşlarından biridir."
+      },
+      {
+        "baslik": "Söz ile Eylemin Tutarlılığı",
+        "icerik": "Güvenilirlik yalnızca doğru konuşmakla değil, söylenenle yapılan arasındaki tutarlılıkla da ölçülür."
+      }
+    ]
+  },
+  {
+    "id": "sukur-bilinci",
+    "baslik": "Şükür Bilincini Geliştirmek",
+    "kategori": "İbadet",
+    "begeni": 395,
+    "ozet": "Sahip olunan nimetlerin farkına varmanın günlük hayata kattığı olumlu bakış açısı.",
+    "altbasliklar": [
+      {
+        "baslik": "Küçük Nimetleri Fark Etmek",
+        "icerik": "Şükür, yalnızca büyük olaylarda değil; sağlık, huzurlu bir ev ya da güzel bir gün gibi küçük ayrıntılarda da aranmalıdır."
+      },
+      {
+        "baslik": "Şükrün Davranışa Yansıması",
+        "icerik": "Gerçek şükür, sahip olunanı başkalarıyla paylaşmak ve elindekini iyi kullanmakla tamamlanır."
+      },
+      {
+        "baslik": "Zorluk Anında Şükür",
+        "icerik": "Zor zamanlarda bile hâlâ elde kalanları görebilmek, kişiyi umutsuzluğa karşı daha dayanıklı kılar."
+      }
+    ]
+  }
+]
