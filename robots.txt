@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iyikiislamvar.github.io/sitemap.xml
